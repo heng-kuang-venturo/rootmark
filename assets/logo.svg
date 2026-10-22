@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Rootmark">
+  <defs>
+    <linearGradient id="canopy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2F6B4F"/>
+      <stop offset="100%" stop-color="#1A4633"/>
+    </linearGradient>
+    <linearGradient id="fruit" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0A06A"/>
+      <stop offset="100%" stop-color="#E07A3D"/>
+    </linearGradient>
+  </defs>
+  <!-- mark ring -->
+  <circle cx="60" cy="60" r="54" fill="none" stroke="#1A4633" stroke-width="3" opacity="0.18"/>
+  <!-- trunk -->
+  <path d="M58 78 C56 62 52 52 48 42 C55 46 62 48 72 44 C68 54 64 64 62 78 Z" fill="#5C3D2E"/>
+  <!-- canopy -->
+  <ellipse cx="60" cy="40" rx="28" ry="22" fill="url(#canopy)"/>
+  <ellipse cx="44" cy="48" rx="16" ry="12" fill="#2F6B4F"/>
+  <ellipse cx="76" cy="46" rx="15" ry="11" fill="#3D8A63"/>
+  <!-- fruit -->
+  <circle cx="70" cy="42" r="5.5" fill="url(#fruit)"/>
+  <circle cx="52" cy="38" r="4" fill="#F0A06A" opacity="0.9"/>
+  <!-- roots / mark -->
+  <path d="M60 78 C52 86 44 90 36 92 M60 78 C60 88 58 94 54 100 M60 78 C68 86 76 90 84 92"
+        fill="none" stroke="#1A4633" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

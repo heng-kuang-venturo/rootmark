@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rootmark — Pitch Deck</title>
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;560;700&family=Syne:wght@700;800&display=swap" rel="stylesheet" />
+<style>
+:root{--moss:#1a4633;--leaf:#2f6b4f;--apricot:#e07a3d;--peach:#f0a06a;--ink:#14241c;--paper:#f7faf8;--mist:#e8f2ec;--font-d:"Syne",sans-serif;--font-b:"Manrope",sans-serif}
+*{box-sizing:border-box}html,body{margin:0;height:100%;font-family:var(--font-b);color:var(--ink);background:#0e1f17}
+.deck{height:100%;overflow:hidden}.slide{display:none;height:100%;padding:clamp(1.5rem,4vw,3rem);position:relative;overflow:hidden}
+.slide.active{display:grid;align-content:center;animation:in .55s cubic-bezier(.22,1,.36,1)}
+@keyframes in{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+.slide.dark{background:linear-gradient(160deg,#123028,#1a4633 55%,#245642);color:#fff}
+.slide.light{background:radial-gradient(ellipse at 90% 10%,rgba(240,160,106,.18),transparent 40%),linear-gradient(180deg,#f3f7f4,#e8f2ec)}
+.slide.photo{color:#fff}.slide.photo .bg{position:absolute;inset:0;z-index:0}
+.slide.photo .bg img{width:100%;height:100%;object-fit:cover}.slide.photo .shade{position:absolute;inset:0;background:linear-gradient(120deg,rgba(14,31,23,.88),rgba(14,31,23,.35));z-index:1}
+.slide .content{position:relative;z-index:2;max-width:980px;width:100%;margin:0 auto}
+.brand{font-family:var(--font-d);font-weight:800;font-size:clamp(2.8rem,8vw,5.5rem);letter-spacing:-.045em;line-height:.95;margin:0 0 .75rem}
+h1{font-family:var(--font-d);font-size:clamp(2rem,5vw,3.4rem);letter-spacing:-.035em;margin:0 0 1rem;line-height:1.05;max-width:18ch}
+h2{font-family:var(--font-d);font-size:clamp(1.6rem,3.5vw,2.4rem);letter-spacing:-.03em;margin:0 0 1rem}
+.tag{color:var(--peach);font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:.78rem;margin:0 0 1rem}
+.sub{font-size:clamp(1.05rem,2vw,1.3rem);max-width:42ch;opacity:.9;margin:0 0 1.5rem}
+.grid2{display:grid;gap:1.25rem}@media(min-width:800px){.grid2{grid-template-columns:1fr 1fr;gap:2rem}}
+.grid3{display:grid;gap:1rem}@media(min-width:800px){.grid3{grid-template-columns:repeat(3,1fr)}}
+.panel{padding:1.1rem 1.2rem;border-top:3px solid var(--apricot);background:rgba(255,255,255,.08)}
+.light .panel{background:rgba(255,255,255,.65);border-top-color:var(--leaf)}
+.panel strong{display:block;font-family:var(--font-d);font-size:1.35rem;margin-bottom:.35rem}
+.panel span{font-size:.95rem;opacity:.85;display:block}
+.stat{font-family:var(--font-d);font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;color:var(--apricot);letter-spacing:-.03em}
+.light .stat{color:var(--moss)}
+.note{font-size:.8rem;opacity:.65;margin-top:1.25rem;max-width:60ch}
+ul.clean{margin:0;padding:0;list-style:none;display:grid;gap:.65rem}
+ul.clean li{padding-left:1.1rem;position:relative}
+ul.clean li::before{content:"";position:absolute;left:0;top:.55em;width:.45rem;height:.45rem;border-radius:50%;background:var(--apricot)}
+.nav-ui{position:fixed;bottom:1.25rem;right:1.25rem;z-index:10;display:flex;gap:.5rem;align-items:center}
+.nav-ui button{border:0;background:var(--apricot);color:#fff;font-weight:700;padding:.65rem 1rem;border-radius:999px;cursor:pointer}
+.nav-ui .count{color:#fff;background:rgba(0,0,0,.35);padding:.4rem .7rem;border-radius:999px;font-size:.85rem;backdrop-filter:blur(6px)}
+.top{position:fixed;top:1rem;left:1.25rem;z-index:10;display:flex;gap:.75rem;align-items:center}
+.top a{color:#fff;text-decoration:none;font-weight:700;font-size:.9rem;background:rgba(0,0,0,.3);padding:.4rem .75rem;border-radius:999px}
+.light ~ .top a,.on-light .top a{color:var(--moss);background:rgba(255,255,255,.7)}
+.mini-img{width:100%;border-radius:1rem;overflow:hidden;max-height:280px}
+.mini-img img{width:100%;height:100%;object-fit:cover;aspect-ratio:16/9}
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+td,th{padding:.55rem .4rem;border-bottom:1px solid rgba(255,255,255,.15);text-align:left}
+.light td,.light th{border-bottom-color:rgba(26,70,51,.12)}
+th{font-family:var(--font-d)}
+</style>
+</head>
+<body>
+<div class="top"><a href="../index.html">← Rootmark</a></div>
+<div class="deck" id="deck">
+
+<section class="slide photo active" data-i="0">
+  <div class="bg"><img src="../assets/images/hero-orchard.jpg" alt="" /></div>
+  <div class="shade"></div>
+  <div class="content">
+    <p class="tag">Pitch deck</p>
+    <p class="brand">Rootmark</p>
+    <p class="sub">Grow a tree for every chapter of life — fruit trees on local farms, watched month by month.</p>
+  </div>
+</section>
+
+<section class="slide dark" data-i="1">
+  <div class="content">
+    <p class="tag">Problem</p>
+    <h1>Milestones deserve more than flowers that wilt.</h1>
+    <ul class="clean">
+      <li>People want living gifts for births, anniversaries, memorials — but few have land, time, or know-how.</li>
+      <li>Moving, renting, and apartment life make backyard trees fragile promises.</li>
+      <li>Carbon offsets feel abstract; local farms need stable revenue beyond seasonal tourists.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="slide photo" data-i="2">
+  <div class="bg"><img src="../assets/images/milestone-gift.jpg" alt="" /></div>
+  <div class="shade"></div>
+  <div class="content">
+    <p class="tag">Solution</p>
+    <h1>A milestone tree hosted by a farm near you.</h1>
+    <div class="grid3" style="margin-top:1.5rem">
+      <div class="panel"><strong>Plant</strong><span>Gift or subscribe; we plant a fruit tree on a partner orchard.</span></div>
+      <div class="panel"><strong>Watch</strong><span>Monthly farm photos + harvest education on a private web timeline.</span></div>
+      <div class="panel"><strong>Share</strong><span>Visit, pick fruit, or donate harvest to the farm and community.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="slide light" data-i="3">
+  <div class="content">
+    <p class="tag">Market size</p>
+    <h2>TAM / SAM / SOM (labeled estimates)</h2>
+    <div class="grid3">
+      <div class="panel"><span class="stat">~$85–120B</span><strong>TAM</strong><span>Global gifting + experiential gifts + memorial plantings (order-of-magnitude; combines celebratory gifting and tree/offset markets). Assumption band, not audited.</span></div>
+      <div class="panel"><span class="stat">~$8–14B</span><strong>SAM</strong><span>US + W. Europe premium experiential gifts, baby/wedding registries, and local agritourism spend addressable by farm-hosted trees.</span></div>
+      <div class="panel"><span class="stat">~$40–90M</span><strong>SOM</strong><span>5-year target: top 20 US metros + 2 EU pilots × mid/high-income milestone givers; ~150–300k trees cumulative.</span></div>
+    </div>
+    <p class="note">Sources/anchors (directional): US greeting &amp; gift retail scale; wedding/baby registry spend reports; agritourism USDA summaries; voluntary carbon &amp; tree-planting NGO volumes. All figures are planning estimates with clear assumptions — refine with primary research.</p>
+  </div>
+</section>
+
+<section class="slide dark" data-i="4">
+  <div class="content">
+    <p class="tag">Business model</p>
+    <h2>Three revenue rails</h2>
+    <div class="grid3">
+      <div class="panel"><strong>Gift planting</strong><span>$180–$320 one-time: tree + first-year care + digital timeline + gift narrative.</span></div>
+      <div class="panel"><strong>Care subscription</strong><span>$8–$15/mo after year one: photos, agronomy notes, visit windows, harvest options.</span></div>
+      <div class="panel"><strong>Farm partnership</strong><span>Host fee per tree/year + optional visitor day packages; farms keep donated fruit value.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="slide light" data-i="5">
+  <div class="content">
+    <p class="tag">Unit economics sketch</p>
+    <h2>Per tree, year 1 (illustrative)</h2>
+    <table>
+      <tr><th>Line</th><th>Amount</th><th>Notes</th></tr>
+      <tr><td>ASP (gift SKU)</td><td>$240</td><td>Mid-tier peach/apple</td></tr>
+      <tr><td>Sapling + plant labor</td><td>$(35–55)</td><td>Wholesale + farm crew</td></tr>
+      <tr><td>Year-1 host stipend</td><td>$(40–60)</td><td>Paid to farm</td></tr>
+      <tr><td>Photo ops + QA</td><td>$(18–28)</td><td>Monthly uploads, moderation</td></tr>
+      <tr><td>Payment + gift packaging</td><td>$(20–30)</td><td>Digital + optional print card</td></tr>
+      <tr><td>Contribution margin</td><td>~$70–120</td><td>~30–50% before CAC</td></tr>
+    </table>
+    <p class="note">CAC target via registries &amp; farm events: $40–80. Payback inside first subscription year when attach rate ≥45%.</p>
+  </div>
+</section>
+
+<section class="slide photo" data-i="6">
+  <div class="bg"><img src="../assets/images/local-farm.jpg" alt="" /></div>
+  <div class="shade"></div>
+  <div class="content">
+    <p class="tag">Operations</p>
+    <h1>Farm network + monthly photo logistics.</h1>
+    <ul class="clean">
+      <li>Onboard orchards with spare row capacity; standardized planting &amp; labeling kits.</li>
+      <li>Farms upload monthly photos via mobile web; Rootmark tags phenology tips.</li>
+      <li>Visit booking windows coordinated with farms; harvest opt-in or donate-by-default.</li>
+      <li>Carbon story tied to living trees + soil practices — no phantom offsets.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="slide dark" data-i="7">
+  <div class="content">
+    <p class="tag">Go-to-market</p>
+    <h2>Phases</h2>
+    <div class="grid3">
+      <div class="panel"><strong>0–6 mo</strong><span>2–3 farms, 500 trees, wedding/baby registry pilots, founders A–F placeholders.</span></div>
+      <div class="panel"><strong>6–18 mo</strong><span>Expand metro farm network; B2B corporate milestone gifts; influencer orchard days.</span></div>
+      <div class="panel"><strong>18–36 mo</strong><span>Multi-region density; subscription attach; white-label memorials with hospices/faith groups.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="slide light" data-i="8">
+  <div class="content">
+    <p class="tag">Costs to launch</p>
+    <h2>Estimated year-0 burn (lean)</h2>
+    <div class="grid2">
+      <div class="panel"><strong>$180–260k</strong><span>Ops: farm stipends seed fund, sapling inventory, photo QA contractors, insurance.</span></div>
+      <div class="panel"><strong>$120–180k</strong><span>Product: monitoring site, CRM, farm mobile upload, basic marketplace.</span></div>
+      <div class="panel"><strong>$80–140k</strong><span>GTM: registry partnerships, content, launch events.</span></div>
+      <div class="panel"><strong>$150–220k</strong><span>Team: core ops + partnerships (founders A–F may be sweat/equity early).</span></div>
+    </div>
+    <p class="note">Total seed-ish ask band: ~$0.6–0.9M for 18 months runway — planning estimate only.</p>
+  </div>
+</section>
+
+<section class="slide photo" data-i="9">
+  <div class="bg"><img src="../assets/images/fruit-harvest.jpg" alt="" /></div>
+  <div class="shade"></div>
+  <div class="content">
+    <p class="tag">Ask / vision</p>
+    <p class="brand">Rootmark</p>
+    <p class="sub">Make every milestone grow something you can visit, taste, and pass on.</p>
+    <p style="margin-top:1.5rem"><a href="../monitor.html" style="color:#f0a06a;font-weight:700">See the tree monitor mock →</a></p>
+  </div>
+</section>
+
+</div>
+<div class="nav-ui">
+  <span class="count"><span id="cur">1</span> / <span id="tot">10</span></span>
+  <button type="button" id="prev" aria-label="Previous">←</button>
+  <button type="button" id="next" aria-label="Next">→</button>
+</div>
+<script>
+const slides=[...document.querySelectorAll('.slide')];
+let i=0;
+const cur=document.getElementById('cur');
+document.getElementById('tot').textContent=slides.length;
+function show(n){i=(n+slides.length)%slides.length;slides.forEach((s,idx)=>s.classList.toggle('active',idx===i));cur.textContent=i+1;document.body.classList.toggle('on-light',slides[i].classList.contains('light'));}
+document.getElementById('prev').onclick=()=>show(i-1);
+document.getElementById('next').onclick=()=>show(i+1);
+document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();show(i+1)}if(e.key==='ArrowLeft')show(i-1)});
+</script>
+</body>
+</html>
