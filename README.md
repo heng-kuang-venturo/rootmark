@@ -28,8 +28,15 @@ Open `index.html` in a browser, or:
 python3 -m http.server 8080
 ```
 
+## Repository
+https://github.com/heng-kuang-venturo/rootmark (**private**)
+
 ## GitHub Pages
-Site is served from the repository root on the default branch. **Note:** private repositories need GitHub Pro (or making the repo public) for public Pages hosting on personal accounts.
+Site files live at the repository root (`index.html`). **Pages is not enabled:** GitHub’s free plan does not support Pages for private repos. Make the repo public or upgrade to Pro, then enable Pages from `main` / root.
+
+Intended URLs after Pages:
+- https://heng-kuang-venturo.github.io/rootmark/
+- https://heng-kuang-venturo.github.io/rootmark/pitch/
 
 ## Founding members
 Placeholders **A, B, C, D, E, F** only.
