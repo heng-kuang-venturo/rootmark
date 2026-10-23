@@ -32,8 +32,9 @@ python3 -m http.server 8080
 https://github.com/heng-kuang-venturo/rootmark
 
 ## Live site
-- https://rootmarks.com
-- Pitch: https://rootmarks.com/pitch/
+- **Preview (live now):** https://heng-kuang-venturo.github.io/rootmark/
+- **Pitch:** https://heng-kuang-venturo.github.io/rootmark/pitch/
+- Custom domain https://rootmarks.com — re-enable after DNS (see `docs/domain-setup.md`)
 - DNS setup: [`docs/domain-setup.md`](docs/domain-setup.md)
 
 ## GitHub Pages

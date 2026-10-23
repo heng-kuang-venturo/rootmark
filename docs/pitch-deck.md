@@ -3,10 +3,10 @@
 Interactive HTML deck: **[pitch/index.html](../pitch/index.html)**
 
 ## Live URLs
-- **Site:** https://rootmarks.com
-- **Pitch deck:** https://rootmarks.com/pitch/
+- **Site (preview):** https://heng-kuang-venturo.github.io/rootmark/
+- **Pitch deck:** https://heng-kuang-venturo.github.io/rootmark/pitch/
 - **Repo:** https://github.com/heng-kuang-venturo/rootmark
-- **Fallback (github.io):** https://heng-kuang-venturo.github.io/rootmark/pitch/
+- **Custom domain:** https://rootmarks.com — re-add after DNS points to GitHub (`docs/domain-setup.md`)
 
 DNS / Pages setup: [domain-setup.md](domain-setup.md)
 
