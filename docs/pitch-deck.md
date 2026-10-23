@@ -2,12 +2,13 @@
 
 Interactive HTML deck: **[pitch/index.html](../pitch/index.html)**
 
-## URLs
-- **Repo:** https://github.com/heng-kuang-venturo/rootmark (private)
-- **Deck (in repo):** https://github.com/heng-kuang-venturo/rootmark/blob/main/pitch/index.html
-- **GitHub Pages:** not enabled — private repos on the free plan cannot publish Pages. Flip the repo to **public** (or upgrade to GitHub Pro) to serve:
-  - Site: `https://heng-kuang-venturo.github.io/rootmark/`
-  - Deck: `https://heng-kuang-venturo.github.io/rootmark/pitch/`
+## Live URLs
+- **Site:** https://rootmarks.com
+- **Pitch deck:** https://rootmarks.com/pitch/
+- **Repo:** https://github.com/heng-kuang-venturo/rootmark
+- **Fallback (github.io):** https://heng-kuang-venturo.github.io/rootmark/pitch/
+
+DNS / Pages setup: [domain-setup.md](domain-setup.md)
 
 ## Slides covered
 1. Brand / concept  

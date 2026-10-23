@@ -28,7 +28,9 @@ Experiential gifting is mainstream; agritourism is familiar; climate-conscious b
 Placeholders **A, B, C, D, E, F** only.
 
 ### Links
+- **Live site:** https://rootmarks.com
 - Marketing site: repository root (`index.html`)
-- Pitch deck: `pitch/index.html`
+- Pitch deck: https://rootmarks.com/pitch/ (`pitch/index.html`)
 - Business plan: `docs/business-plan.md`
 - Tree monitor mock: `monitor.html`
+- Domain DNS: `docs/domain-setup.md`

@@ -29,14 +29,16 @@ python3 -m http.server 8080
 ```
 
 ## Repository
-https://github.com/heng-kuang-venturo/rootmark (**private**)
+https://github.com/heng-kuang-venturo/rootmark
+
+## Live site
+- https://rootmarks.com
+- Pitch: https://rootmarks.com/pitch/
+- DNS setup: [`docs/domain-setup.md`](docs/domain-setup.md)
 
 ## GitHub Pages
-Site files live at the repository root (`index.html`). **Pages is not enabled:** GitHub’s free plan does not support Pages for private repos. Make the repo public or upgrade to Pro, then enable Pages from `main` / root.
+Deploy from `main` / root. Custom domain `rootmarks.com` (see `CNAME`). Fallback: https://heng-kuang-venturo.github.io/rootmark/
 
-Intended URLs after Pages:
-- https://heng-kuang-venturo.github.io/rootmark/
-- https://heng-kuang-venturo.github.io/rootmark/pitch/
 
 ## Founding members
 Placeholders **A, B, C, D, E, F** only.
