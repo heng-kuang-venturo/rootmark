@@ -42,14 +42,13 @@ Public site from branch `main`, folder `/` (root). No custom domain configured.
 
 
 ## Founding team
-All currently at **Google**:
+A team of tech veterans spanning frontend, backend, machine learning, data science, and product management — years of experience building products that create value for billions of people, now dedicated to a better, greener world.
+
 - **Heng Kuang** — CEO
 - **Norbert Slivka** — Co-founder
 - **Kaustubh Bansal** — Co-founder
 - **Patrick Binder** — Co-founder
 - **Daniela Simoes** — Co-founder
-
-Illustrated portraits on the site (not photographs).
 
 
 ## License

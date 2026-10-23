@@ -19,7 +19,7 @@ Domain `rootmarks.com` is reserved for later and is **not** connected right now.
 7. Operations (farm network, monthly photos)  
 8. GTM phases  
 9. Launch cost structure  
-10. Team / Founders (all Googlers)
+10. Team / Founders (tech veterans)
 11. Closing vision  
 
 ## Imagery

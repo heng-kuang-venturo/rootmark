@@ -27,7 +27,8 @@ Experiential gifting is mainstream; agritourism is familiar; climate-conscious b
 **Rootmark** (project codename MyTree). Alternates considered: KinOrchard, MileGrove, HarvestKin. Domain `rootmarks.com` reserved for later.
 
 ### Founding team
-All Googlers:
+A team of tech veterans (frontend, backend, ML, data science, product) with years of experience building products that create value for billions of people — dedicated to a better, greener world.
+
 - **Heng Kuang** — CEO
 - **Norbert Slivka** — Co-founder
 - **Kaustubh Bansal** — Co-founder
