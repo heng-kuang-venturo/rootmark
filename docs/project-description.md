@@ -6,13 +6,13 @@
 
 **Rootmark** plants milestone trees on partner farms to honor life events — births, weddings, anniversaries, memorials, graduations. Customers don’t need a backyard. Farms host and care for the trees; Rootmark delivers a private web timeline with **photos across years and seasons**, education, visit options, and — for fruit trees — the choice to keep or **donate fruit** to the farm and community.
 
-**Tree coverage:** Fruit trees are a highlight (harvest + education + donate), but Rootmark also offers ornamental / flower trees such as **cherry blossoms** and **maples**. Sentiment + education + (when relevant) real fruit + local farms + climate.
+**Trees we plant:** Peach and other fruit trees (harvest + education + donate), cherry blossoms, maples, and similar ornamentals. Sentiment + education + real fruit when it fits + local farms + climate.
 
 ### Problem
 Living gifts are emotionally powerful but operationally hard: renters move, trees die from neglect, and carbon offsets feel distant. Local farms and orchards need year-round income beyond weekend traffic.
 
 ### Solution
-- Gift or subscribe to a farm-hosted tree near the recipient (fruit or ornamental).
+- Gift or subscribe to a farm-hosted tree near the recipient — peach/fruit, cherry blossom, maple, and more.
 - Multi-year monitoring with seasonal photos and phenology notes.
 - Visit / pick / donate harvest pathways for fruit trees.
 - Farm partnership fees for hosting and photo ops.
@@ -29,7 +29,7 @@ Experiential gifting is mainstream; agritourism is familiar; climate-conscious b
 ### Founding team
 A team of tech veterans (frontend, backend, ML, data science, product) with years of experience building products that create value for billions of people — dedicated to a better, greener world.
 
-- **Heng Kuang** — CEO
+- **Heng Kuang** — Co-founder
 - **Norbert Slivka** — Co-founder
 - **Kaustubh Bansal** — Co-founder
 - **Patrick Binder** — Co-founder

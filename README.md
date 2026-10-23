@@ -2,7 +2,7 @@
 
 **Grow a tree for every chapter of life.**
 
-Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting **trees on partner farms**. **Fruit trees** are a highlight (harvest education, pick or donate fruit), alongside **cherry blossoms, maples, and other ornamentals**. Customers follow photos across years and seasons, visit when they want, and support local farms + climate.
+Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting trees on partner farms. Kinds we plant include **peach and other fruit trees**, **cherry blossoms**, and **maples**. Customers follow photos across years and seasons, visit when they want, and support local farms + climate.
 
 ## Brand
 **Chosen name: Rootmark**
@@ -44,7 +44,7 @@ Public site from branch `main`, folder `/` (root). No custom domain configured.
 ## Founding team
 A team of tech veterans spanning frontend, backend, machine learning, data science, and product management — years of experience building products that create value for billions of people, now dedicated to a better, greener world.
 
-- **Heng Kuang** — CEO
+- **Heng Kuang** — Co-founder
 - **Norbert Slivka** — Co-founder
 - **Kaustubh Bansal** — Co-founder
 - **Patrick Binder** — Co-founder

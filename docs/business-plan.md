@@ -4,7 +4,7 @@
 People want to honor life milestones with something living and lasting. Flowers fade; digital cards disappear. Planting a tree at home fails for renters, movers, and anyone without horticultural confidence. Meanwhile, “plant a tree” offsets often feel unverifiable, and local farms struggle to monetize spare orchard capacity outside peak U-pick weekends.
 
 ## 2. Solution
-**Rootmark** sells milestone trees — **fruit trees as a highlight**, plus ornamentals such as **cherry blossoms** and **maples** — that are **planted and cared for on partner farms** near the customer. Owners get:
+**Rootmark** sells milestone trees planted and cared for on partner farms — kinds include **peach and other fruit trees**, **cherry blossoms**, and **maples**. Owners get:
 1. A gift narrative tied to a real tree and farm.
 2. A **monitoring website** with multi-year / seasonal farm-uploaded photos and educational notes.
 3. Options to visit; for fruit trees, harvest or **donate fruit** to the farm/community.
@@ -62,7 +62,7 @@ Subscription **$8–15/mo** with high gross margin after year one. Target CAC $4
 ### Phase 1 (0–6 months)
 - 2–3 partner farms; 500 trees
 - Wedding + baby registry pilots
-- Founding team of tech veterans: Heng Kuang (CEO); co-founders Norbert Slivka, Kaustubh Bansal, Patrick Binder, Daniela Simoes
+- Founding team of tech veterans / co-founders: Heng Kuang, Norbert Slivka, Kaustubh Bansal, Patrick Binder, Daniela Simoes
 
 ### Phase 2 (6–18 months)
 - Expand metro farm density
@@ -92,7 +92,7 @@ Subscription **$8–15/mo** with high gross margin after year one. Target CAC $4
 
 ## 12. Team
 Tech veterans covering frontend, backend, machine learning, data science, and product management — years building products for billions of people; dedicated to a greener world (see `about.html`):
-- **Heng Kuang** — CEO
+- **Heng Kuang** — Co-founder
 - **Norbert Slivka** — Co-founder
 - **Kaustubh Bansal** — Co-founder
 - **Patrick Binder** — Co-founder
