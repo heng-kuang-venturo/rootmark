@@ -46,6 +46,12 @@ table{width:100%;border-collapse:collapse;font-size:.95rem}
 td,th{padding:.55rem .4rem;border-bottom:1px solid rgba(255,255,255,.15);text-align:left}
 .light td,.light th{border-bottom-color:rgba(26,70,51,.12)}
 th{font-family:var(--font-d)}
+.team-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:.85rem;margin-top:1rem}
+@media(min-width:800px){.team-grid{grid-template-columns:repeat(5,1fr)}}
+.team-card{display:grid;gap:.35rem;justify-items:center;text-align:center;padding:.5rem .25rem}
+.team-card img{width:84px;height:84px;border-radius:50%;object-fit:cover;border:3px solid rgba(26,70,51,.15)}
+.team-card strong{font-family:var(--font-d);font-size:.95rem;letter-spacing:-.02em}
+.team-card span{font-size:.8rem;opacity:.75}
 </style>
 </head>
 <body>
@@ -150,7 +156,7 @@ th{font-family:var(--font-d)}
     <p class="tag">Go-to-market</p>
     <h2>Phases</h2>
     <div class="grid3">
-      <div class="panel"><strong>0–6 mo</strong><span>2–3 farms, 500 trees, wedding/baby registry pilots, founders A–F placeholders.</span></div>
+      <div class="panel"><strong>0–6 mo</strong><span>2–3 farms, 500 trees, wedding/baby registry pilots, founding team (all Googlers).</span></div>
       <div class="panel"><strong>6–18 mo</strong><span>Expand metro farm network; B2B corporate milestone gifts; influencer orchard days.</span></div>
       <div class="panel"><strong>18–36 mo</strong><span>Multi-region density; subscription attach; white-label memorials with hospices/faith groups.</span></div>
     </div>
@@ -165,13 +171,49 @@ th{font-family:var(--font-d)}
       <div class="panel"><strong>$180–260k</strong><span>Ops: farm stipends seed fund, sapling inventory, photo QA contractors, insurance.</span></div>
       <div class="panel"><strong>$120–180k</strong><span>Product: monitoring site, CRM, farm mobile upload, basic marketplace.</span></div>
       <div class="panel"><strong>$80–140k</strong><span>GTM: registry partnerships, content, launch events.</span></div>
-      <div class="panel"><strong>$150–220k</strong><span>Team: core ops + partnerships (founders A–F may be sweat/equity early).</span></div>
+      <div class="panel"><strong>$150–220k</strong><span>Team: founding Googlers + early ops/partnerships (sweat/equity early).</span></div>
     </div>
     <p class="note">Total seed-ish ask band: ~$0.6–0.9M for 18 months runway — planning estimate only.</p>
   </div>
 </section>
 
-<section class="slide photo" data-i="9">
+
+<section class="slide light" data-i="9">
+  <div class="content">
+    <p class="tag">Team</p>
+    <h2>Founders — all Googlers</h2>
+    <div class="team-grid">
+      <div class="team-card">
+        <img src="../assets/avatars/avatar-heng-kuang.jpg" alt="Heng Kuang" />
+        <strong>Heng Kuang</strong>
+        <span>CEO</span>
+      </div>
+      <div class="team-card">
+        <img src="../assets/avatars/avatar-norbert-slivka.jpg" alt="Norbert Slivka" />
+        <strong>Norbert Slivka</strong>
+        <span>Co-founder</span>
+      </div>
+      <div class="team-card">
+        <img src="../assets/avatars/avatar-kaustubh-bansal.jpg" alt="Kaustubh Bansal" />
+        <strong>Kaustubh Bansal</strong>
+        <span>Co-founder</span>
+      </div>
+      <div class="team-card">
+        <img src="../assets/avatars/avatar-patrick-binder.jpg" alt="Patrick Binder" />
+        <strong>Patrick Binder</strong>
+        <span>Co-founder</span>
+      </div>
+      <div class="team-card">
+        <img src="../assets/avatars/avatar-daniela-simoes.jpg" alt="Daniela Simoes" />
+        <strong>Daniela Simoes</strong>
+        <span>Co-founder</span>
+      </div>
+    </div>
+    <p class="note">Illustrated portraits · five founders total · Google affiliation</p>
+  </div>
+</section>
+
+<section class="slide photo" data-i="10">
   <div class="bg"><img src="../assets/images/fruit-harvest.jpg" alt="" /></div>
   <div class="shade"></div>
   <div class="content">

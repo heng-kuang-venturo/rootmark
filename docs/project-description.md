@@ -24,8 +24,14 @@ Experiential gifting is mainstream; agritourism is familiar; climate-conscious b
 ### Brand
 **Rootmark** (project codename MyTree). Alternates considered: KinOrchard, MileGrove, HarvestKin.
 
-### Founding members
-Placeholders **A, B, C, D, E, F** only.
+### Founding team
+All Googlers:
+- **Heng Kuang** — CEO
+- **Norbert Slivka** — Co-founder
+- **Kaustubh Bansal** — Co-founder
+- **Patrick Binder** — Co-founder
+- **Daniela Simoes** — Co-founder
+
 
 ### Links
 - **Live site:** https://heng-kuang-venturo.github.io/rootmark/

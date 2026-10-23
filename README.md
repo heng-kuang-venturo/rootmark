@@ -14,7 +14,7 @@ Alternates considered: **KinOrchard**, **MileGrove**, **HarvestKin**.
 |------|------|
 | `index.html` | Marketing site |
 | `monitor.html` | Tree monitoring mock (monthly photos) |
-| `about.html` | About + founders A–F placeholders |
+| `about.html` | About + founding team |
 | `pitch/index.html` | HTML pitch deck |
 | `docs/project-description.md` | One-pager |
 | `docs/business-plan.md` | Business plan + GTM |
@@ -41,8 +41,16 @@ https://github.com/heng-kuang-venturo/rootmark
 Public site from branch `main`, folder `/` (root). No custom domain configured.
 
 
-## Founding members
-Placeholders **A, B, C, D, E, F** only.
+## Founding team
+All currently at **Google**:
+- **Heng Kuang** — CEO
+- **Norbert Slivka** — Co-founder
+- **Kaustubh Bansal** — Co-founder
+- **Patrick Binder** — Co-founder
+- **Daniela Simoes** — Co-founder
+
+Illustrated portraits on the site (not photographs).
+
 
 ## License
 Company pack materials © Rootmark founders — all rights reserved unless otherwise noted.

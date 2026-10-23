@@ -62,7 +62,7 @@ Subscription **$8–15/mo** with high gross margin after year one. Target CAC $4
 ### Phase 1 (0–6 months)
 - 2–3 partner farms; 500 trees
 - Wedding + baby registry pilots
-- Founders A–F (placeholders) owning partnerships, ops, product, brand, agronomy, finance
+- Founding team (all Googlers): Heng Kuang (CEO); co-founders Norbert Slivka, Kaustubh Bansal, Patrick Binder, Daniela Simoes
 
 ### Phase 2 (6–18 months)
 - Expand metro farm density
@@ -91,4 +91,9 @@ Subscription **$8–15/mo** with high gross margin after year one. Target CAC $4
 **Rootmark.** Live preview: https://heng-kuang-venturo.github.io/rootmark/. Domain `rootmarks.com` reserved for later. Alternates: KinOrchard, MileGrove, HarvestKin.
 
 ## 12. Team
-Founding members listed as placeholders **A–F** only (see `about.html`).
+All currently at Google (see `about.html`):
+- **Heng Kuang** — CEO
+- **Norbert Slivka** — Co-founder
+- **Kaustubh Bansal** — Co-founder
+- **Patrick Binder** — Co-founder
+- **Daniela Simoes** — Co-founder
