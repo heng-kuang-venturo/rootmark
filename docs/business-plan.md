@@ -4,7 +4,7 @@
 People want to honor life milestones with something living and lasting. Flowers fade; digital cards disappear. Planting a tree at home fails for renters, movers, and anyone without horticultural confidence. Meanwhile, “plant a tree” offsets often feel unverifiable, and local farms struggle to monetize spare orchard capacity outside peak U-pick weekends.
 
 ## 2. Solution
-**Rootmark** sells milestone trees planted and cared for on partner farms — kinds include **peach and other fruit trees**, **cherry blossoms**, and **maples**. Owners get:
+**Rootmark** sells milestone trees planted and cared for on partner farms — kinds include **fruit trees** (e.g. peach, apple), **cherry blossoms**, and **maples**. Owners get:
 1. A gift narrative tied to a real tree and farm.
 2. A **monitoring website** with multi-year / seasonal farm-uploaded photos and educational notes.
 3. Options to visit; for fruit trees, harvest or **donate fruit** to the farm/community.
@@ -27,7 +27,7 @@ People want to honor life milestones with something living and lasting. Flowers 
 Refine with primary interviews and registry partner data before fundraising materials harden.
 
 ## 4. Product
-- **Gift SKU:** fruit or ornamental variety + planting + year-1 care + digital timeline + optional print card.
+- **Gift SKU:** tree variety (fruit or ornamental) + planting + year-1 care + digital timeline + optional print card.
 - **Subscription:** ongoing photos, education, visit windows, harvest coordination.
 - **Farm console:** mobile upload, tree IDs, stipend dashboard.
 - **Monitor mock:** see `monitor.html` for UX concept.
