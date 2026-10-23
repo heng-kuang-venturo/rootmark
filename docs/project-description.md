@@ -4,25 +4,27 @@
 
 ## One-pager
 
-**Rootmark** plants fruit trees on partner farms to honor life milestones — births, weddings, anniversaries, memorials, graduations. Customers don’t need a backyard. Farms host and care for the trees; Rootmark delivers a private web timeline with **monthly photos**, harvest education, visit options, and the choice to keep or **donate fruit** to the farm and community. The product blends sentiment, education, real harvest, local farm revenue, and a credible living-carbon story.
+**Rootmark** plants milestone trees on partner farms to honor life events — births, weddings, anniversaries, memorials, graduations. Customers don’t need a backyard. Farms host and care for the trees; Rootmark delivers a private web timeline with **photos across years and seasons**, education, visit options, and — for fruit trees — the choice to keep or **donate fruit** to the farm and community.
+
+**Tree coverage:** Fruit trees are a highlight (harvest + education + donate), but Rootmark also offers ornamental / flower trees such as **cherry blossoms** and **maples**. Sentiment + education + (when relevant) real fruit + local farms + climate.
 
 ### Problem
-Living gifts are emotionally powerful but operationally hard: renters move, trees die from neglect, and carbon offsets feel distant. Local orchards need year-round income beyond weekend traffic.
+Living gifts are emotionally powerful but operationally hard: renters move, trees die from neglect, and carbon offsets feel distant. Local farms and orchards need year-round income beyond weekend traffic.
 
 ### Solution
-- Gift or subscribe to a farm-hosted fruit tree near the recipient.
-- Monthly photo monitoring + phenology notes (bloom, fruit set, harvest timing).
-- Visit / pick / donate harvest pathways.
+- Gift or subscribe to a farm-hosted tree near the recipient (fruit or ornamental).
+- Multi-year monitoring with seasonal photos and phenology notes.
+- Visit / pick / donate harvest pathways for fruit trees.
 - Farm partnership fees for hosting and photo ops.
 
 ### Who it’s for
-Milestone gifters, new parents, couples, memorial buyers, and companies buying recognition gifts — especially in metros near working orchards.
+Milestone gifters, new parents, couples, memorial buyers, and companies buying recognition gifts — especially in metros near working farms and orchards.
 
 ### Why now
 Experiential gifting is mainstream; agritourism is familiar; climate-conscious buyers want tangible nature stories; mobile photo workflows make farm ops lightweight.
 
 ### Brand
-**Rootmark** (project codename MyTree). Alternates considered: KinOrchard, MileGrove, HarvestKin.
+**Rootmark** (project codename MyTree). Alternates considered: KinOrchard, MileGrove, HarvestKin. Domain `rootmarks.com` reserved for later.
 
 ### Founding team
 All Googlers:
@@ -31,7 +33,6 @@ All Googlers:
 - **Kaustubh Bansal** — Co-founder
 - **Patrick Binder** — Co-founder
 - **Daniela Simoes** — Co-founder
-
 
 ### Links
 - **Live site:** https://heng-kuang-venturo.github.io/rootmark/

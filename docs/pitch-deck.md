@@ -23,4 +23,4 @@ Domain `rootmarks.com` is reserved for later and is **not** connected right now.
 11. Closing vision  
 
 ## Imagery
-Generated orchard, harvest, farm, gift, and growth visuals in `assets/images/`.
+Orchard, seasons, growth stages, cherry/maple coverage, gift, and farm visuals in `assets/images/`.

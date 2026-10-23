@@ -2,7 +2,7 @@
 
 **Grow a tree for every chapter of life.**
 
-Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting **fruit trees on partner farms**. Customers follow monthly photos, learn the harvest calendar, visit when they want, and can donate fruit to the farm and community. Sentiment + education + real fruit + local farms + climate.
+Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting **trees on partner farms**. **Fruit trees** are a highlight (harvest education, pick or donate fruit), alongside **cherry blossoms, maples, and other ornamentals**. Customers follow photos across years and seasons, visit when they want, and support local farms + climate.
 
 ## Brand
 **Chosen name: Rootmark**
