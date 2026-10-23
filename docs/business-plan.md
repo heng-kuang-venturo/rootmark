@@ -88,7 +88,7 @@ Subscription **$8–15/mo** with high gross margin after year one. Target CAC $4
 - **Regulation** → food donation rules handled farm-side; Rootmark facilitates intent
 
 ## 11. Brand
-**Rootmark.** Domain: [rootmarks.com](https://rootmarks.com). Alternates: KinOrchard, MileGrove, HarvestKin.
+**Rootmark.** Live preview: https://heng-kuang-venturo.github.io/rootmark/. Domain `rootmarks.com` reserved for later. Alternates: KinOrchard, MileGrove, HarvestKin.
 
 ## 12. Team
 Founding members listed as placeholders **A–F** only (see `about.html`).

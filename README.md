@@ -31,14 +31,14 @@ python3 -m http.server 8080
 ## Repository
 https://github.com/heng-kuang-venturo/rootmark
 
-## Live site
-- **Preview (live now):** https://heng-kuang-venturo.github.io/rootmark/
-- **Pitch:** https://heng-kuang-venturo.github.io/rootmark/pitch/
-- Custom domain https://rootmarks.com — re-enable after DNS (see `docs/domain-setup.md`)
-- DNS setup: [`docs/domain-setup.md`](docs/domain-setup.md)
+## Live site (public preview)
+- https://heng-kuang-venturo.github.io/rootmark/
+- Pitch: https://heng-kuang-venturo.github.io/rootmark/pitch/
+- Domain `rootmarks.com` is reserved for later (not wired).
+
 
 ## GitHub Pages
-Deploy from `main` / root. Custom domain `rootmarks.com` (see `CNAME`). Fallback: https://heng-kuang-venturo.github.io/rootmark/
+Public site from branch `main`, folder `/` (root). No custom domain configured.
 
 
 ## Founding members

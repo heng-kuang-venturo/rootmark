@@ -2,13 +2,12 @@
 
 Interactive HTML deck: **[pitch/index.html](../pitch/index.html)**
 
-## Live URLs
-- **Site (preview):** https://heng-kuang-venturo.github.io/rootmark/
+## Live URLs (public GitHub Pages)
+- **Site:** https://heng-kuang-venturo.github.io/rootmark/
 - **Pitch deck:** https://heng-kuang-venturo.github.io/rootmark/pitch/
 - **Repo:** https://github.com/heng-kuang-venturo/rootmark
-- **Custom domain:** https://rootmarks.com — re-add after DNS points to GitHub (`docs/domain-setup.md`)
 
-DNS / Pages setup: [domain-setup.md](domain-setup.md)
+Domain `rootmarks.com` is reserved for later and is **not** connected right now.
 
 ## Slides covered
 1. Brand / concept  
