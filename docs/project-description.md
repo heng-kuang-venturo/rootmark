@@ -6,13 +6,18 @@
 
 **Rootmark** plants milestone trees on partner farms to honor life events — births, weddings, anniversaries, memorials, graduations. Customers don’t need a backyard. Farms host and care for the trees; Rootmark delivers a private web timeline with **photos across years and seasons**, education, visit options, and — for fruit trees — the choice to keep or **donate fruit** to the farm and community.
 
-**Trees we plant:** Fruit trees such as peach and apple (harvest, education, donate), cherry blossoms, maples, and similar ornamentals. Sentiment + education + harvest options + local farms + climate.
+**What we plant:**
+- **Fruit trees** — peach, apple, pear, … (harvest, education, donate)
+- **Flowering trees** — cherry blossom, magnolia, dogwood, …
+- **Long-lived companion trees** — oak, maple, ginkgo, olive, … (farm-friendly species that can grow with a human life)
+
+Sentiment + education + harvest options + local farms + climate.
 
 ### Problem
 Living gifts are emotionally powerful but operationally hard: renters move, trees die from neglect, and carbon offsets feel distant. Local farms and orchards need year-round income beyond weekend traffic.
 
 ### Solution
-- Gift or subscribe to a farm-hosted tree near the recipient — fruit trees, cherry blossoms, maples, and more.
+- Gift or subscribe to a farm-hosted tree near the recipient — fruit, flowering, or long-lived companion.
 - Multi-year monitoring with seasonal photos and phenology notes.
 - Visit / pick / donate harvest pathways for fruit trees.
 - Farm partnership fees for hosting and photo ops.

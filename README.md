@@ -2,7 +2,7 @@
 
 **Grow a tree for every chapter of life.**
 
-Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting trees on partner farms. Kinds we plant include **fruit trees** (e.g. peach, apple), **cherry blossoms**, and **maples**. Customers follow photos across years and seasons, visit when they want, and support local farms + climate.
+Rootmark (MyTree project) helps people honor milestones — births, weddings, anniversaries, memorials — by planting trees on partner farms. Kinds we plant: **fruit trees** (peach, apple, pear), **flowering trees** (cherry blossom, magnolia, dogwood), and **long-lived companion trees** (oak, maple, ginkgo, olive). Customers follow photos across years and seasons, visit when they want, and support local farms + climate.
 
 ## Brand
 **Chosen name: Rootmark**
